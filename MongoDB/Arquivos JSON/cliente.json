@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "5f6a02dbe5e729d3d4e2d9ce"
+  },
+  "rg": 6908117,
+  "nome": "Juvenal",
+  "telefone": 87654321,
+  "endereco": {
+    "rua": "solar",
+    "bairro": "barra",
+    "cidade": "itapoa",
+    "estado": "sc"
+  }
+},{
+  "_id": {
+    "$oid": "5f6e13f0f3ba2309605630f1"
+  },
+  "rg": 6908120,
+  "nome": "Manoel",
+  "telefone": 11111122,
+  "endereco": {
+    "rua": "burn",
+    "bairro": "Deep",
+    "cidade": "Purple",
+    "estado": "sc"
+  }
+},{
+  "_id": {
+    "$oid": "5f6e495fda216963def542ff"
+  },
+  "rg": 123456,
+  "nome": "Victor",
+  "telefone": 222554411,
+  "endereco": {
+    "cidade": "Jlle",
+    "estado": "sc",
+    "bairro": "pira",
+    "rua": "da ilha"
+  }
+},{
+  "_id": {
+    "$oid": "5f722c9a0b6d0682d4a32301"
+  },
+  "rg": 6908111,
+  "nome": "Luiza",
+  "telefone": 99999988,
+  "endereco": {
+    "cidade": "garuva",
+    "estado": "sc",
+    "bairro": "dona francisca",
+    "rua": "quiriri"
+  }
+}]

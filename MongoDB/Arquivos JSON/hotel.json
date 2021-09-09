@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "5f6a01b8e5e729d3d4e2d9cd"
+  },
+  "codigo": 1,
+  "nome": "Bagual",
+  "telefone": 12345678,
+  "endereco": {
+    "rua": "olavo bilac",
+    "bairro": "pirabeiraba",
+    "cidade": "joinville",
+    "estado": "sc"
+  }
+},{
+  "_id": {
+    "$oid": "5f6e4ddeda216c9037210f71"
+  },
+  "codigo": 2,
+  "nome": "VanderWalls",
+  "telefone": 222554411,
+  "endereco": {
+    "cidade": "test",
+    "estado": "test",
+    "bairro": "test",
+    "rua": "test"
+  }
+},{
+  "_id": {
+    "$oid": "5f722d850b6d0682d4a32302"
+  },
+  "codigo": 3,
+  "nome": "Village",
+  "telefone": 99999977,
+  "endereco": {
+    "cidade": "piupiu",
+    "estado": "milho",
+    "bairro": "coco",
+    "rua": "carijo"
+  }
+}]
