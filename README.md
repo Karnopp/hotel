@@ -1,6 +1,6 @@
 # hotel
 
-Sistema gestor de banco de dados de hotel para MySQL e MongoDB
+Sistema gestor de banco de dados de hotel para PostgreSQL e MongoDB
 
 Diagrama de entidade-relacionamento do banco de dados:
 
