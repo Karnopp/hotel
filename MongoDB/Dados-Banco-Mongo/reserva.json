@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "5f6a06efe5e729d3d4e2d9d5"
+  },
+  "codigo": 1,
+  "codCliente": 6908117,
+  "tipoQuarto": "casal",
+  "codHotel": 1,
+  "dataEntrada": "01/09/2020",
+  "dataSaida": "02/09/2020",
+  "estadia": "sim",
+  "ativo": "sim"
+},{
+  "_id": {
+    "$oid": "5f724d760b6daf29a81b370f"
+  },
+  "codigo": 10,
+  "codCliente": 6908111,
+  "tipoQuarto": "casal",
+  "codHotel": 2,
+  "dataEntrada": "02/02/2020",
+  "dataSaida": "03/02/2020",
+  "estadia": "sim",
+  "ativo": "sim"
+}]
